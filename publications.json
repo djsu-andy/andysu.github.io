@@ -1,0 +1,147 @@
+{
+  "selected": [
+    {
+      "title": "Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning",
+      "url": "https://arxiv.org/abs/2502.03275",
+      "authors": "DiJia Andy Su, Hanlin Zhu *, Yingchen Xu*, Jiantao Jiao, Yuandong Tian^, Qinqing Zheng^.",
+      "venue": "ICML",
+      "year": "2025",
+      "note": ""
+    },
+    {
+      "title": "Training Large Language Models to Reason in a Continuous Latent Space",
+      "url": "https://arxiv.org/abs/2412.06769",
+      "authors": "Shibo Hao, Sainbayar Sukhbaatar, DiJia Andy Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian",
+      "venue": "COLM",
+      "year": "2025",
+      "note": ""
+    },
+    {
+      "title": "Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces",
+      "url": "https://arxiv.org/abs/2410.09918v1",
+      "authors": "DiJia Andy Su, Sainbayar Sukhbaatar, Michael Rabbat, Yuandong Tian, Qinqing Zheng",
+      "venue": "ICLR",
+      "year": "2025",
+      "note": ""
+    },
+    {
+      "title": "SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2510.09541",
+      "authors": "Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu",
+      "venue": "ICLR",
+      "year": "2026",
+      "note": ""
+    },
+    {
+      "title": "dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models",
+      "url": "https://arxiv.org/abs/2603.18806",
+      "authors": "Wenxuan Zhang, Lemeng Wu, Changsheng Zhao, Ernie Chang, Mingchen Zhuge, Zechun Liu, DiJia Su, Hanxian Huang, Jun Chen, Chong Zhou, Raghuraman Krishnamoorthi, Vikas Chandra, Mohamed Elhoseiny, Wei Wen",
+      "venue": "ICML",
+      "year": "2026",
+      "note": ""
+    },
+    {
+      "title": "Galore 2: Large Scale Low Rank Memory Efficient LLM Pretraining on 500B tokens",
+      "url": "https://www.arxiv.org/abs/2504.20437",
+      "authors": "DiJia Andy Su, Andrew Gu, Jane Xu, Yuandong Tian, Jiawei Zhao",
+      "venue": "Preprint",
+      "year": "2025",
+      "note": ""
+    },
+    {
+      "title": "Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping",
+      "url": "https://arxiv.org/abs/2402.14083",
+      "authors": "Lucas Lehnert, Sainbayar Sukhbaatar, DiJia Andy Su, Qinqing Zheng, Paul Mcvay, Michael Rabbat, Yuandong Tian",
+      "venue": "COLM",
+      "year": "2024",
+      "note": ""
+    }
+  ],
+  "archive": [
+    {
+      "title": "The Path Not Taken: RLVR Provably Learns Off the Principals",
+      "url": "https://arxiv.org/abs/2511.08567",
+      "authors": "Hanqing Zhu, Zhenyu Zhang, Hanxian Huang, DiJia Su, ZechunLiu, Jiawei Zhao, Igor Fedorov, Hamed Pirsiavash, Zhizhou Sha, Jinwon Lee, David Z Pan, Zhangyang Wang, Yuandong Tian, Kai Sheng Tai",
+      "venue": "Preprint",
+      "year": "",
+      "note": ""
+    },
+    {
+      "title": "Narrowing the Coordinate-Frame Gap in Behavior Prediction Models: Distillation for efficient and accurate scene-centric motion forecasting",
+      "url": "https://arxiv.org/pdf/2206.03970.pdf",
+      "authors": "DiJia Andy Su, Bertrand Douillard, Rami Al-Rfou, Cheol Park, Benjamin Sapp",
+      "venue": "ICRA",
+      "year": "2022",
+      "note": ""
+    },
+    {
+      "title": "Competitive Multi-Agent Reinforcement Learning with Self-Supervised Representation",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9747378",
+      "authors": "DiJia Andy Su, Jason D Lee, John M Mulvey, H Vincent Poor",
+      "venue": "ICASSP",
+      "year": "2022",
+      "note": ""
+    },
+    {
+      "title": "A Deep Reinforcement Learning Approach for Finding Non-Exploitable Strategies in Two-Player Atari Games",
+      "authors": "DiJia Andy Su*, Zihan Ding*, Qinghua Liu, Chi Jin",
+      "url": "https://arxiv.org/pdf/2207.08894.pdf",
+      "venue": "Preprint",
+      "year": "2022"
+    },
+    {
+      "title": "MUSBO: Model-based uncertainty regularized and sample efficient batch optimization for deployment constrained reinforcement learning",
+      "url": "https://arxiv.org/pdf/2102.11448.pdf",
+      "authors": "DiJia Andy Su, Jason D Lee, John M Mulvey, H Vincent Poor",
+      "venue": "Preprint",
+      "year": "",
+      "note": ""
+    },
+    {
+      "title": "Optimizing Multi-Document Summarization by Blending Reinforcement Learning Policies",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9868151",
+      "authors": "DiJia Andy Su, DF Su, Jason D Lee, John M Mulvey, H Vincent Poor",
+      "venue": "IEEE TAI",
+      "year": "",
+      "note": ""
+    },
+    {
+      "title": "Improving Portfolio Performance via Natural Language Processing Methods",
+      "url": "https://collaborate.princeton.edu/en/publications/improving-portfolio-performance-via-natural-language-processing-m",
+      "authors": "DiJia Andy Su, John M Mulvey, H Vincent Poor",
+      "venue": "JFDS",
+      "year": "",
+      "note": ""
+    },
+    {
+      "title": "Secrecy capacity and wireless energy harvesting in amplify-and-forward relay networks",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7334844",
+      "authors": "DiJia Andy Su, SA Mousavifar, Cyril Leung",
+      "venue": "PACRIM",
+      "year": "",
+      "note": "Best paper award"
+    },
+    {
+      "title": "Autonomous robot navigation with self-learning for collision avoidance with randomly moving obstacles",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6926440",
+      "authors": "Yunfei Zhang, Clarence W de Silva, DiJia Andy Su, Youtai Xue",
+      "venue": "ICCSE",
+      "year": "",
+      "note": "Best paper award"
+    },
+    {
+      "title": "ConQUR: Mitigating Delusional Bias in Deep Q-Learning",
+      "authors": "DiJia Andy Su, Jayden Ooi, Tyler Lu, Dale Schuurmans, Craig Boutilier",
+      "url": "https://proceedings.mlr.press/v119/su20c.html",
+      "venue": "ICML",
+      "year": "2020"
+    },
+    {
+      "title": "Machine Learning Optimization with Crypto Currency",
+      "authors": "DiJia Andy Su et al.",
+      "url": "",
+      "venue": "Manuscript",
+      "year": ""
+    }
+  ]
+}
