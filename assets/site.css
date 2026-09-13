@@ -170,7 +170,7 @@ h2 { margin: 0 0 24px; font-size: 32px; font-weight: 560; letter-spacing: -0.04e
 .intro-kicker::before { width: 24px; height: 1px; background: var(--coral); content: ""; }
 .intro-copy { position: relative; z-index: 2; }
 .intro-history { margin-top: 26px; padding-top: 18px; border-top: 1px solid var(--line); }
-.intro-history p { margin-top: 11px; font-size: 13px; line-height: 1.75; }
+.intro-history p { margin-top: 11px; line-height: 1.75; }
 .research-map { position: relative; z-index: 2; width: 210px; height: 280px; align-self: center; justify-self: end; }
 .orbit { position: absolute; top: 50%; left: 50%; border: 1px solid rgba(8, 127, 115, 0.24); border-radius: 50%; transform: translate(-50%, -50%) rotate(-14deg); }
 .orbit-outer { width: 190px; height: 190px; }
