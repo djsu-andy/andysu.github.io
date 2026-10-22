@@ -1,6 +1,14 @@
 {
   "selected": [
     {
+      "title": "Muse Glimmer 30B: An On-Device Agentic Model",
+      "url": "https://arxiv.org/abs/2610.24628",
+      "authors": "Arash Ebrahim Abtahizadeh et al. (including DiJia Su)",
+      "venue": "Preprint",
+      "year": "2026",
+      "note": ""
+    },
+    {
       "title": "The Path Not Taken: RLVR Provably Learns Off the Principals",
       "url": "https://arxiv.org/abs/2511.08567",
       "authors": "Hanqing Zhu, Zhenyu Zhang, Hanxian Huang, DiJia Su, Zechun Liu, Jiawei Zhao, Igor Fedorov, Hamed Pirsiavash, Zhizhou Sha, Jinwon Lee, David Z. Pan, Zhangyang Wang, Yuandong Tian, Kai Sheng Tai",
